@@ -55,17 +55,15 @@ Response Format
 The API responds with a JSON object containing the following information:
 
 json
-Copy
+
 {
   "email": "bayq80@example.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/Rydddeal/HNG12API.git"
 }
 
 
-Copy
- http://localhost:3000/
-You should receive the following JSON response:
+
 
 
 
