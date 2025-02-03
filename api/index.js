@@ -8,7 +8,7 @@ app.get('/', (req, res)=> {
     const data = {
       email: "bayq80@gmail.com",
       current_datetime: new Date().toISOString(),
-      github_url: "https://github.com/Rydddeal/HNG12API.git",
+      github_url: "https://github.com/Rydddeal/HNGAPI.git",
     }; 
     res.status(200).json(data);
 });
